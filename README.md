@@ -56,11 +56,7 @@ A cada vez que você clica para indicar que já conhece a palavra ou que não sa
    Execute o arquivo principal para iniciar o aplicativo:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
    Agora você pode começar a revisar as palavras!
-
----
-
-📚 **Aprenda de forma divertida!** 🌟
